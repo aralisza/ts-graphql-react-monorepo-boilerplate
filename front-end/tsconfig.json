@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": false,
+    "strictNullChecks": true,
+    "alwaysStrict": true,
+    "preserveConstEnums": true,
+    "sourceMap": false,
+    "moduleResolution": "Node",
+    "forceConsistentCasingInFileNames": true,
+    "lib": [
+        "dom",
+        "es2015",
+        "es5",
+        "es6"
+    ]
+  }
+}
