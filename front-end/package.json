@@ -9,11 +9,12 @@
     "build:watch": "parcel watch ./src/index.html --public-url '/static'"
   },
   "dependencies": {
-    "autoprefixer": "^8.4.1",
+    "radium": "^0.24.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
   },
   "devDependencies": {
+    "@types/radium": "^0.24.0",
     "@types/react": "^16.3.14",
     "@types/react-dom": "^16.0.5",
     "typescript": "^2.8.3"
