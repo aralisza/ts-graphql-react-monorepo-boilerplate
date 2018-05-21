@@ -1,5 +1,5 @@
 {
-  "name": "onememe-back-end",
+  "name": "boilerplate-back-end",
   "version": "0.0.1",
   "main": "dist/index.js",
   "scripts": {
